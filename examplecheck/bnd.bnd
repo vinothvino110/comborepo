@@ -1,0 +1,4 @@
+Bundle-Name: examplecheck
+Bundle-SymbolicName: examplecheck
+Bundle-Version: 1.0.0
+Export-Package: examplecheck.constants
